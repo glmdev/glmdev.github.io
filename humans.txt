@@ -1,0 +1,33 @@
+/* PROJECT */
+
+    Site Name:    Garrett Mills
+    Site URL:     http://glmdev.tech/
+    Created:      2018-07-20
+    Standards:    HTML5, CSS3
+    Components:   Twitter Bootstrap, jQuery
+    Software:     Node.js
+    Web Design:   Garrett Mills
+
+/* AUTHOR */
+
+    Name:         Garrett Mills
+    Nickname:     glmdev
+    Title:        Developer, Speaker, Designer, Student, Founder of glmdev
+    Location:     Kansas
+    Contact:      http://glmdev.tech/#contact
+
+/* SOCIAL */
+
+    About.me:     https://about.me/garrett.mills
+    LinkedIn:     https://linkedin.com/in/glmdev
+    GitHub:       https://github.com/glmdev
+    Medium:       https://medium.com/@glmdev
+    Twitter:      https://twitter.com/glmdev
+
+/* META */
+
+    Built with: Stylus, CSS, HTML, jQuery, Twitter Bootstrap, Node.js, and MongoDB
+
+/* THANKS */
+
+    Thanks to C. Philgreen for the hilarious picture of my in old English attire as seen in the #about section.
