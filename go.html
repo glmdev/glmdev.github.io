@@ -1,0 +1,15 @@
+---
+permalink: /go
+---
+
+<script>
+    var go_object = {
+        "/twitter": "https://twitter.com/glmdev/",
+        "/in": "https://linkedin.com/in/glmdev",
+        "": "?#" // Stay on this page if redirect
+    }
+
+    var parm = window.location.search.substr(1)
+
+    window.location = go_object[parm]
+</script>
