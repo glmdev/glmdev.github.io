@@ -1,2 +1,4 @@
-	More info 	: https://glmdev.tech/cluster
------------------------------------------------------------------------------
+  For info on how to get started, visit: https://glmdev.tech/cluster
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+		There are no scheduled maintenance events.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
