@@ -1,4 +1,6 @@
   For info on how to get started, visit: https://glmdev.tech/cluster
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-		There are no scheduled maintenance events.
+               There are no scheduled maintenance events.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+      View the SLURM queue online: https://seashells.io/v/hh6nwcp8
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
