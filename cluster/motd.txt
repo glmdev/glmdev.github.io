@@ -1,2 +1,11 @@
   For info on how to get started, visit: https://glmdev.tech/cluster
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+  Maintenance Notice:
+  
+  The cluster will be down for maintenance.
+  
+  Beginning            Ending               Reason
+  ---------------------------------------------------------------------
+  20 Nov 2018 20:00    25 Nov 2018 12:00    Thanksgiving Break (KU)
+ 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
