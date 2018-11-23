@@ -1,6 +1,14 @@
 {
   "dependencies": {
+    "less": "^3.8.1",
     "pug": "^2.0.3",
-    "sass": "^1.15.1"
-  }
+    "pug-cli": "^1.0.0-alpha6"
+  },
+  "name": "glmdev.tech",
+  "version": "1.0.0",
+  "description": "The https://glmdev.tech/ website.",
+  "main": "index.js",
+  "repository": "git@github.com:glmdev/glmdev.github.io",
+  "author": "glmdev <glmdev@outlook.com>",
+  "license": "Closed"
 }
