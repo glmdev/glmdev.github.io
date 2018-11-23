@@ -39,7 +39,7 @@ head
   link(rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css')
   link(rel='stylesheet' href='https://use.fontawesome.com/releases/v5.0.10/css/all.css')
   link(rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css')
-  link(rel='stylesheet' href='delivery/css/style.css')
+  link(rel='stylesheet' href='dist/style/index.css')
   // HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries
   // Leave those next 4 lines if you care about users using IE8
   //if lt IE 9
@@ -61,16 +61,16 @@ head
       #first.collapse.navbar-collapse
         ul.nav.navbar-nav
           li
-            a(href='#about') about
+            a(onclick='$(\'#about\').scrollView()') about
           li
-            a(href='#projects') projects
+            a(onclick='$(\'#projects\').scrollView()') projects
           li.hidden-xs
             a(href='#')
               img(src='delivery/images/branding/signature_w.png' alt='Brand' width='150')
           li
-            a(href='#contact') contact
+            a(onclick='$(\'#contact\').scrollView()') contact
           li
-            a(href='#design') design
+            a(onclick='$(\'#design\').scrollView()') design
   // =========== WELCOME SECTION ===========
   #welcome.section.first-section
     .row
@@ -133,6 +133,7 @@ head
         br
         i.fa.fa-angle-down
   // =========== PROJECTS SECTION ===========
+  - var projarrs = [[],[],[]] // TODO
   #projects.section
     .spacer-50px
     .row
@@ -277,17 +278,17 @@ head
       .row
         .col-md-3
           ul.endbar-links
-            a(href='#top')
+            a(onclick='$(\'#top\').scrollView()')
               li home
-            a(href='#about')
+            a(onclick='$(\'#about\').scrollView()')
               li about me
-            a(href='#projects')
+            a(onclick='$(\'#projects\').scrollView()')
               li recent work
         .col-md-3
           ul.endbar-links
-            a(href='#contact')
+            a(onclick='$(\'#contact\').scrollView()')
               li contact me
-            a(href='#design')
+            a(onclick='$(\'#design\').scrollView()')
               li my design
             a(href='delivery/resources/Resume.pdf')
               li resume
