@@ -13,14 +13,14 @@ head
   meta(property='og:type' content='profile')
   meta(property='og:title' content='Garrett Mills')
   meta(property='og:url' content='http://glmdev.tech/')
-  meta(property='og:image' content='http://glmdev.tech/delivery/images/home/self-portrait.jpeg')
+  meta(property='og:image' content='http://glmdev.tech/image/home/self-portrait.jpeg')
   meta(property='profile:first_name' content='Garrett')
   meta(property='profile:last_name' content='Mills')
   meta(name='twitter:card' content='summary_large_image')
   meta(name='twitter:site' content='@glmdev')
   meta(name='twitter:title' content='Garrett Mills')
   meta(name='twitter:description' content="Hi, there. My name is Garrett, and I'm a developer.")
-  meta(name='twitter:image' content='http://glmdev.tech/delivery/images/home/self-portrait.jpeg')
+  meta(name='twitter:image' content='http://glmdev.tech/image/home/self-portrait.jpeg')
   meta(name='msapplication-config' content='browserconfig.xml')
   script(type='application/ld+json').
     {
@@ -39,7 +39,7 @@ head
   link(rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css')
   link(rel='stylesheet' href='https://use.fontawesome.com/releases/v5.0.10/css/all.css')
   link(rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css')
-  link(rel='stylesheet' href='dist/style/index.css')
+  link(rel='stylesheet' href='style/index.css')
   // HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries
   // Leave those next 4 lines if you care about users using IE8
   //if lt IE 9
@@ -57,7 +57,7 @@ head
           span.icon-bar
           span.icon-bar
         a.navbar-brand.hidden-sm.hidden-md.hidden-lg(href='#')
-          img(src='delivery/images/branding/signature_w.png' alt='Brand' width='150')
+          img(src='image/branding/signature_w.png' alt='Brand' width='150')
       #first.collapse.navbar-collapse
         ul.nav.navbar-nav
           li
@@ -66,7 +66,7 @@ head
             a(onclick='$(\'#projects\').scrollView()') projects
           li.hidden-xs
             a(href='#')
-              img(src='delivery/images/branding/signature_w.png' alt='Brand' width='150')
+              img(src='image/branding/signature_w.png' alt='Brand' width='150')
           li
             a(onclick='$(\'#contact\').scrollView()') contact
           li
@@ -100,7 +100,7 @@ head
       .col-md-6.col-md-offset-2
         .row
           .col-sm-4
-            img#me-img.img-responsive(src='delivery/images/home/self-portrait.jpeg' alt='')
+            img#me-img.img-responsive(src='image/home/self-portrait.jpeg' alt='')
           .col-md-8.about-text
             p
               | I&apos;m a designer first and foremost. I believe in a form-follows-function model that lends itself to clean, bold design; and I try to apply this to every project on which I work. Whether that project be developing a website, blueprinting an API, writing a speech, framing a shot, or organizing an event, this idea of design can be found in everything.
@@ -121,11 +121,11 @@ head
               li.about-love-item cycling -
     .row.about-pics
       .col-lg-2.col-md-3.col-lg-offset-3.col-md-offset-2.padding-side-0
-        img.img-responsive.about-pic(src='delivery/images/home/forensics.jpg' alt='')
+        img.img-responsive.about-pic(src='image/home/forensics.jpg' alt='')
       .col-lg-2.col-md-3.padding-side-0
-        img.img-responsive.about-pic(src='delivery/images/home/grimsby.jpg' alt='')
+        img.img-responsive.about-pic(src='image/home/grimsby.jpg' alt='')
       .col-lg-2.col-md-3.padding-side-0
-        img.img-responsive.about-pic(src='delivery/images/home/workbench.jpg' alt='')
+        img.img-responsive.about-pic(src='image/home/workbench.jpg' alt='')
     .spacer-120px
     .hint-container(onclick="$('#projects').scrollView()")
       h2.nav-hint.text-center
@@ -203,13 +203,13 @@ head
         .row.contact-social
           .col-lg-12
             a(href='https://www.linkedin.com/in/glmdev' target='_blank')
-              img(src='delivery/images/home/social/linkedin.png' width='35' alt='LinkedIn Profile')
+              img(src='image/home/social/linkedin.png' width='35' alt='LinkedIn Profile')
             a(href='https://github.com/glmdev' target='_blank')
-              img(src='delivery/images/home/social/github.png' width='35' alt='Github Profile')
+              img(src='image/home/social/github.png' width='35' alt='Github Profile')
             a(href='https://medium.com/@glmdev' target='_blank')
-              img(src='delivery/images/home/social/medium.png' width='35' alt='Medium Profile')
+              img(src='image/home/social/medium.png' width='35' alt='Medium Profile')
             a(href='https://twitter.com/glmdev' target='_blank')
-              img(src='delivery/images/home/social/twitter.png' width='35' alt='Twitter Profile')
+              img(src='image/home/social/twitter.png' width='35' alt='Twitter Profile')
       .col-lg-3.text-right
         .form-area
           form#contact-form(role='form' action='https://formspree.io/garrett@glmdev.tech' method='post')
@@ -271,7 +271,7 @@ head
         i.fa.fa-angle-up
   .row.endbar-row
     .col-md-3.col-md-offset-2.col-sm-4.col-sm-offset-1.col-xs-12
-      img.img-responsive.endbar-signature.pull-right(src='delivery/images/branding/signature.png' alt='' width='150')
+      img.img-responsive.endbar-signature.pull-right(src='image/branding/signature.png' alt='' width='150')
     .col-md-5.col-sm-6.col-xs-12
       .row
         .col-lg-12 Copyright &copy; 2018 Garrett Mills. All Rights Reserved.
@@ -303,4 +303,4 @@ head
   #bottom
 script(src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js')
 script(src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js')
-script(src='delivery/js/script.js')
+script(src='script/index.js')

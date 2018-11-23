@@ -1,0 +1,112 @@
+.nav-first {
+  background: @color-background;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  .icon {
+    padding: 5px;
+  }
+  .phone {
+    font-family: "Alegreya Sans Light";
+    letter-spacing: 2px;
+    font-size: 22pt;
+    padding: 12px 10px;
+    color: @color-font-on-bkg;
+  }
+  .open {
+    font-family: "Alegreya Sans Light";
+    font-size: 22pt;
+    color: @color-font-on-bkg;
+    padding: 17px 10px;
+  }
+  .glyph-icon {
+    color: @color-font-on-bkg;
+    padding: 17px 10px;
+  }
+  .navbar-nav {
+    li {
+      a {
+        font-family: "Alegreya Sans Light";
+        letter-spacing: 2px;
+        color: @color-font-on-bkg !important;
+      }
+    }
+  }
+}
+.nav-second {
+  background-color: @color-background;
+  border: 0;
+  border-radius: 0;
+  min-height: auto;
+  position: relative;
+  top: 0;
+  font-size: 22pt;
+  width: auto;
+  margin-bottom: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  .navbar-nav {
+    li {
+      a {
+        font-family: "Alegreya Sans Light";
+        letter-spacing: 2px;
+        color: @color-font-on-bkg !important;
+      }
+    }
+  }
+}
+.navbar-brand {
+  padding: 0 15px;
+  height: 130px;
+}
+.nav-hint {
+  font-family: "Alegreya Sans Thin";
+  font-size: 28pt;
+  color: @color-font-on-bkg;
+  transition: all 400ms ease;
+  &:hover {
+    font-size: 32pt;
+  }
+}
+
+@media (min-width: @layout-width-m) {
+  .nav-second {
+    .navbar-nav {
+      position: relative;
+      right: -50%;
+      > li {
+        position: relative;
+        left: -50%;
+        a {
+          line-height: 126px;
+          vertical-align: middle;
+          padding: 0 10px;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: @layout-width-l) {
+  .nav-second {
+    .navbar-nav {
+      > li {
+        a {
+          padding: 0 25px;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: @layout-width-xl) {
+  .nav-second {
+    .navbar-nav {
+      > li {
+        a {
+          padding: 0 24px;
+        }
+      }
+    }
+  }
+}
