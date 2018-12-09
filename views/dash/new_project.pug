@@ -1,0 +1,50 @@
+doctype html
+head
+  title Add Project | Garrett Mills
+  link(rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css')
+  link(rel='stylesheet' href='https://use.fontawesome.com/releases/v5.0.10/css/all.css')
+  link(rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css')
+  link(rel='stylesheet' href='/style/index.css')
+  // HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries
+  // Leave those next 4 lines if you care about users using IE8
+  //if lt IE 9
+    script(src='https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js')
+    script(src='https://oss.maxcdn.com/respond/1.4.2/respond.min.js')
+.container-fluid
+  #top
+  #about.section
+    .spacer-50px
+    .row
+      .col-lg-4.pull-right
+        h1.ft-sidekick3.section-title dashboard //
+        h1.ft-sidekick2.section-title add project
+    .row.about-row
+      br
+      br
+      .col-lg-4.col-lg-offset-4
+        form(method="post" enctype="multipart/form-data")
+          .form-group
+            label(for="project_title") Project Title
+            input.form-control#project_title(type="text" name="title" required autofocus)
+          .form-group
+            label(for="project_text") Project Text
+            input.form-control#project_text(type="text" name="text")
+          .form-group
+            label(for="project_link") Project Link
+            input.form-control#project_link(type="text" name="link" required)
+          .form-group
+            label(for="project_img") Thumbnail Image
+            input.form-control-file#project_img(type="file" name="img")
+          .form-group
+            label(for="project_date") Display Date
+            input.form-control#project_date(type="text" name="date" placeholder="YYYY-MM-DD")
+          .form-group
+            label(for="project_writeup") Writeup
+            textarea.form-control#project_writeup(rows="4" name="writeup")
+          .form-group
+            button.btn.btn-default(type="submit") Submit
+        br
+  #bottom
+script(src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js')
+script(src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js')
+script(src='/script/index.js')

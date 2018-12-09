@@ -30,4 +30,6 @@ router.get('/humans.txt', (req, res) => {
     res.sendFile(approot+'/dist/root/humans.txt')
 })
 
+router.get('/logout', (req, res) => res.redirect('/auth/logout'))
+
 module.exports = router;

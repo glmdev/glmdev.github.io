@@ -2,69 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dcc7ec5-87d3-449e-be98-64ec9df22e2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cluster.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cluster/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cluster/motd.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cluster/rca/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/Resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/dist/files/Resume.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/css/styles.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/images/branding/ms-tile-wide.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/images/branding/ms-tile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/images/branding/signature.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/images/branding/signature_small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/images/branding/signature_w.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/images/home/forensics.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/images/home/grimsby.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/images/home/projects/cali.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/images/home/projects/cluster.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/images/home/projects/gluster.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/images/home/projects/pfsense.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/images/home/projects/port.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/images/home/projects/tedx.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/images/home/projects/world.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/images/home/self-portrait.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/images/home/social/github.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/images/home/social/linkedin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/images/home/social/medium.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/images/home/social/twitter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/images/home/workbench.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/vendor/alegreya_sans/AlegreyaSans-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/vendor/alegreya_sans/AlegreyaSans-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/vendor/alegreya_sans/AlegreyaSans-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/vendor/alegreya_sans/AlegreyaSans-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/vendor/alegreya_sans/AlegreyaSans-ExtraBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/vendor/alegreya_sans/AlegreyaSans-ExtraBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/vendor/alegreya_sans/AlegreyaSans-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/vendor/alegreya_sans/AlegreyaSans-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/vendor/alegreya_sans/AlegreyaSans-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/vendor/alegreya_sans/AlegreyaSans-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/vendor/alegreya_sans/AlegreyaSans-MediumItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/vendor/alegreya_sans/AlegreyaSans-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/vendor/alegreya_sans/AlegreyaSans-Thin.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/vendor/alegreya_sans/AlegreyaSans-ThinItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/vendor/jeet/_functions.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/vendor/jeet/_grid.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/vendor/jeet/_settings.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery/vendor/jeet/index.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/style/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/dist/root/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/genuine.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/google51522abfef6c7e9f.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hook/contact_success.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/humans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/root/humans.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/less/colors.less" beforeDir="false" afterPath="$PROJECT_DIR$/dist/less/colors.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/less/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/dist/less/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/less/index/welcome.less" beforeDir="false" afterPath="$PROJECT_DIR$/dist/less/index/welcome.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/root/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/dist/less/index.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uh-oh.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/HomeRouter.js" beforeDir="false" afterPath="$PROJECT_DIR$/routers/HomeRouter.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -112,50 +57,58 @@
     <session id="-1705968544">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="2" />
+          <entry key="env" value="3" />
+          <entry key="gitignore" value="2" />
+          <entry key="gitkeep" value="1" />
           <entry key="html" value="8" />
-          <entry key="js" value="5" />
-          <entry key="less" value="37" />
-          <entry key="pug" value="7" />
+          <entry key="js" value="36" />
+          <entry key="less" value="49" />
+          <entry key="pug" value="26" />
           <entry key="txt" value="1" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key=".env file" value="2" />
           <entry key="CSS" value="2" />
           <entry key="HTML" value="8" />
-          <entry key="Jade" value="7" />
-          <entry key="JavaScript" value="5" />
-          <entry key="Less" value="37" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Jade" value="26" />
+          <entry key="JavaScript" value="36" />
+          <entry key="Less" value="49" />
+          <entry key="PLAIN_TEXT" value="5" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="env" value="167" />
+          <entry key="gitignore" value="42" />
           <entry key="html" value="1539" />
-          <entry key="js" value="1577" />
-          <entry key="less" value="558" />
-          <entry key="pug" value="628" />
+          <entry key="js" value="13969" />
+          <entry key="less" value="1245" />
+          <entry key="pug" value="4708" />
           <entry key="txt" value="58" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="1539" />
-          <entry key="Jade" value="628" />
-          <entry key="JavaScript" value="1577" />
-          <entry key="Less" value="558" />
-          <entry key="PLAIN_TEXT" value="58" />
+          <entry key="Jade" value="4708" />
+          <entry key="JavaScript" value="13969" />
+          <entry key="Less" value="1245" />
+          <entry key="PLAIN_TEXT" value="267" />
         </counts>
       </usages-collector>
     </session>
@@ -168,17 +121,89 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="206">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/routers/HomeRouter.js">
+        <entry file="file://$PROJECT_DIR$/controllers/DashController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+            <state relative-caret-position="390">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/dash/edit_project.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="73" selection-start-line="24" selection-start-column="73" selection-end-line="24" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/AuthController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/dash/index.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/index.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="130" column="29" selection-start-line="130" selection-start-column="29" selection-end-line="130" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/FileController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/File.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routers/DashRouter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/dash/new_project.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -188,8 +213,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="Pug File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -200,11 +225,17 @@
       <find>jeet</find>
       <find>#336</find>
       <find>#fff</find>
+      <find>nav-hint</find>
+      <find>;</find>
+      <find>san_data</find>
+      <find>background-color, color</find>
+      <find>ft-sidekick2</find>
     </findStrings>
     <replaceStrings>
       <replace>/font</replace>
       <replace>image/</replace>
       <replace>@color-font-on-bkg</replace>
+      <replace>all</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -224,20 +255,42 @@
         <option value="$PROJECT_DIR$/views/status_landing.pug" />
         <option value="$PROJECT_DIR$/dist/less/fonts.less" />
         <option value="$PROJECT_DIR$/dist/less/layout_utils.less" />
-        <option value="$PROJECT_DIR$/dist/less/index.less" />
         <option value="$PROJECT_DIR$/dist/less/index/navigation.less" />
-        <option value="$PROJECT_DIR$/dist/less/index/welcome.less" />
         <option value="$PROJECT_DIR$/dist/less/index/about.less" />
         <option value="$PROJECT_DIR$/dist/less/index/projects.less" />
         <option value="$PROJECT_DIR$/dist/less/index/contact.less" />
         <option value="$PROJECT_DIR$/dist/less/index/design.less" />
         <option value="$PROJECT_DIR$/dist/less/index/endbar.less" />
-        <option value="$PROJECT_DIR$/dist/less/colors.less" />
         <option value="$PROJECT_DIR$/views/error.pug" />
         <option value="$PROJECT_DIR$/views/index.pug" />
         <option value="$PROJECT_DIR$/views/landing.pug" />
-        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/db.js" />
+        <option value="$PROJECT_DIR$/passport/login.js" />
+        <option value="$PROJECT_DIR$/dist/less/login.less" />
+        <option value="$PROJECT_DIR$/dist/less/auth.less" />
+        <option value="$PROJECT_DIR$/controllers/Auth.js" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/config.js" />
+        <option value="$PROJECT_DIR$/models/User.js" />
+        <option value="$PROJECT_DIR$/views/auth/register.pug" />
         <option value="$PROJECT_DIR$/routers/HomeRouter.js" />
+        <option value="$PROJECT_DIR$/routers/AuthRouter.js" />
+        <option value="$PROJECT_DIR$/views/auth/login.pug" />
+        <option value="$PROJECT_DIR$/dist/less/index.less" />
+        <option value="$PROJECT_DIR$/dist/less/index/welcome.less" />
+        <option value="$PROJECT_DIR$/dist/less/colors.less" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/models/File.js" />
+        <option value="$PROJECT_DIR$/views/dash/new_project.pug" />
+        <option value="$PROJECT_DIR$/models/Project.js" />
+        <option value="$PROJECT_DIR$/routers/FileRouter.js" />
+        <option value="$PROJECT_DIR$/controllers/FileController.js" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/controllers/AuthController.js" />
+        <option value="$PROJECT_DIR$/views/dash/index.pug" />
+        <option value="$PROJECT_DIR$/views/dash/edit_project.pug" />
+        <option value="$PROJECT_DIR$/routers/DashRouter.js" />
+        <option value="$PROJECT_DIR$/controllers/DashController.js" />
       </list>
     </option>
   </component>
@@ -256,10 +309,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
-    <option name="width" value="1750" />
-    <option name="height" value="983" />
+    <option name="x" value="49" />
+    <option name="y" value="27" />
+    <option name="width" value="1871" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -269,6 +322,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -279,23 +333,42 @@
             <path>
               <item name="glmdev.tech" type="b2602c69:ProjectViewProjectNode" />
               <item name="glmdev.tech" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="glmdev.tech" type="b2602c69:ProjectViewProjectNode" />
               <item name="glmdev.tech" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="root" type="462c0819:PsiDirectoryNode" />
+              <item name="data_upload" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="glmdev.tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="glmdev.tech" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="glmdev.tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="glmdev.tech" type="462c0819:PsiDirectoryNode" />
+              <item name="routers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="glmdev.tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="glmdev.tech" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="glmdev.tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="glmdev.tech" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="dash" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="home&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/routers/HomeRouter.js&#10;index&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/dist/less/index.less&#10;layoutut&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/dist/less/layout_utils.less&#10;index.pug&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/views/index.pug&#10;index.less&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/dist/less/index.less&#10;index.p&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/views/index.pug&#10;index.js&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/index.js&#10;inde&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/index.pug&#10;index.&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/index.pug&#10;css&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/delivery/css/style.css" />
+    <property name="SearchEverywhereHistoryKey" value="dashcon&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/controllers/DashController.js&#10;dashro&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/routers/DashRouter.js&#10;editpro&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/views/dash/edit_project.pug&#10;dash/in&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/views/dash/index.pug&#10;dashrou&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/routers/DashRouter.js&#10;dashrout&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/routers/DashRouter.js&#10;dash/ind&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/views/dash/index.pug&#10;Projec&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/models/Project.js&#10;index.js&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/index.js&#10;dash/index&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/views/dash/index.pug&#10;dashrouter&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/routers/DashRouter.js&#10;authcont&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/controllers/AuthController.js&#10;dashcont&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/controllers/DashController.js&#10;filecon&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/controllers/FileController.js&#10;dashcontr&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/controllers/DashController.js&#10;file&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/models/File.js&#10;index&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/index.js&#10;index.pug&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/views/index.pug&#10;inde&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/views/dash/index.pug&#10;project&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/models/Project.js&#10;authcon&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/controllers/AuthController.js&#10;newproject&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/views/dash/new_project.pug&#10;file.js&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/models/File.js&#10;.gitig&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/.gitignore&#10;login&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/views/auth/login.pug&#10;colors.less&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/dist/less/colors.less&#10;index.less&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/dist/less/index.less&#10;index.&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/dist/less/index.less&#10;login.&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/views/auth/login.pug&#10;Router.js&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/routers/HomeRouter.js&#10;register.&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/views/auth/register.pug&#10;index.p&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/views/index.pug&#10;auth.&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/routers/AuthRouter.js&#10;user&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/models/User.js&#10;db&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/db.js&#10;dbconf&#9;null&#9;null&#10;.env&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/.env&#10;config&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/config.js&#10;config.&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/config.js&#10;register&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/views/auth/register.pug&#10;authro&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/routers/AuthRouter.js&#10;indepug&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/views/index.pug&#10;nav.less&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/dist/less/index/navigation.less&#10;navigation.less&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/dist/less/index/navigation.less&#10;home&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/routers/HomeRouter.js&#10;layoutut&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/dist/less/layout_utils.less&#10;css&#9;FILE&#9;file:///home/glmdev/Projects/glmdev.tech/delivery/css/style.css" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -308,11 +381,11 @@
       <recent name="$PROJECT_DIR$/views" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/views" />
-      <recent name="$PROJECT_DIR$/dist/script" />
-      <recent name="$PROJECT_DIR$/dist/image" />
-      <recent name="$PROJECT_DIR$/dist/font" />
-      <recent name="$PROJECT_DIR$/cluster/rca" />
+      <recent name="$PROJECT_DIR$/views/dash" />
+      <recent name="$PROJECT_DIR$/routers" />
+      <recent name="$PROJECT_DIR$/controllers" />
+      <recent name="$PROJECT_DIR$/models" />
+      <recent name="$PROJECT_DIR$/views/auth" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -341,19 +414,37 @@
       <workItem from="1541689040439" duration="1162000" />
       <workItem from="1542323918426" duration="1084000" />
       <workItem from="1542939956678" duration="3360000" />
-      <workItem from="1542996179387" duration="9994000" />
+      <workItem from="1542996179387" duration="12262000" />
+      <workItem from="1543009957805" duration="7019000" />
+      <workItem from="1543326603828" duration="2334000" />
+      <workItem from="1543333696250" duration="878000" />
+      <workItem from="1543335190461" duration="9869000" />
+      <workItem from="1543354212774" duration="60000" />
+      <workItem from="1543851130625" duration="3013000" />
+      <workItem from="1543861867189" duration="133000" />
+      <workItem from="1543862878516" duration="20875000" />
+      <workItem from="1544026774322" duration="2514000" />
+      <workItem from="1544117092771" duration="5508000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19060000" />
+    <option name="totallyTimeSpent" value="73531000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="27" width="1871" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992908" visible="true" weight="0.22402598" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989083" visible="true" weight="0.22402598" />
+      <window_info id="Structure" order="1" sideWeight="0.5010917" side_tool="true" weight="0.22402598" />
       <window_info id="Favorites" order="2" sideWeight="0.50070924" side_tool="true" weight="0.22402598" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32969433" />
@@ -361,15 +452,34 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32969433" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.23034935" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34170306" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989083" visible="true" weight="0.22402598" />
+      <window_info id="Structure" order="1" sideWeight="0.5010917" side_tool="true" weight="0.22402598" />
+      <window_info id="Favorites" order="2" sideWeight="0.50070924" side_tool="true" weight="0.22402598" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969433" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32969433" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.34279475" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -378,28 +488,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cluster/index.pug" />
-    <entry file="file://$PROJECT_DIR$/cluster/rca/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="171" selection-start-line="29" selection-start-column="171" selection-end-line="29" selection-end-column="171" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/go.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/rca/index.html" />
+    <entry file="file://$PROJECT_DIR$/go.html" />
     <entry file="file://$PROJECT_DIR$/views/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2100">
@@ -407,30 +497,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cluster/motd.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/delivery/css/styles.less">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/delivery/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5190">
-          <caret line="346" column="18" selection-end-line="703" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hook/contact_success.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="40" lean-forward="true" selection-end-line="34" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/motd.txt" />
+    <entry file="file://$PROJECT_DIR$/delivery/css/styles.less" />
+    <entry file="file://$PROJECT_DIR$/delivery/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/hook/contact_success.html" />
     <entry file="file://$PROJECT_DIR$/dist/script/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -438,46 +508,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/less/fonts.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cluster/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cluster.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/google51522abfef6c7e9f.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uh-oh.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/less/index/navigation.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-142">
-          <caret line="64" column="27" selection-start-line="64" selection-start-column="27" selection-end-line="64" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/less/index/welcome.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/cluster/index.html" />
+    <entry file="file://$PROJECT_DIR$/cluster.html" />
+    <entry file="file://$PROJECT_DIR$/google51522abfef6c7e9f.html" />
+    <entry file="file://$PROJECT_DIR$/uh-oh.html" />
     <entry file="file://$PROJECT_DIR$/dist/less/index/about.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -489,13 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/less/index/contact.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -513,27 +540,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/less/layout_utils.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/less/colors.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="26" lean-forward="true" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/less/index.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/error.pug">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -541,34 +547,225 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.pug">
+    <entry file="file://$PROJECT_DIR$/dist/root/browserconfig.xml" />
+    <entry file="file://$PROJECT_DIR$/passport/login.js" />
+    <entry file="file://$PROJECT_DIR$/views/landing.pug">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+        <state relative-caret-position="375">
+          <caret line="25" column="62" selection-end-line="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/landing.pug">
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/router/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="81" selection-start-line="35" selection-start-column="81" selection-end-line="35" selection-end-column="81" />
+        <state relative-caret-position="226">
+          <caret line="509" column="18" selection-start-line="509" selection-start-column="18" selection-end-line="509" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/less/auth.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/less/index/contact.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/AuthRouter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="79" lean-forward="true" selection-start-line="9" selection-start-column="79" selection-end-line="9" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="62" lean-forward="true" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/auth/register.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="76" selection-start-line="27" selection-start-column="76" selection-end-line="27" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/HomeRouter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="65" selection-start-line="32" selection-start-column="65" selection-end-line="32" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/User.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/less/fonts.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="44" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/less/layout_utils.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3546">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/less/index/navigation.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="63" column="18" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/less/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/less/colors.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/less/index/welcome.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/auth/login.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_upload/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/FileRouter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/FileController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/File.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="130" column="29" selection-start-line="130" selection-start-column="29" selection-end-line="130" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="206">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/root/browserconfig.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routers/HomeRouter.js">
+    <entry file="file://$PROJECT_DIR$/models/Project.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+        <state relative-caret-position="135">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/dash/new_project.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/AuthController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/dash/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/dash/edit_project.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="73" selection-start-line="24" selection-start-column="73" selection-end-line="24" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/DashRouter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/DashController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
         </state>
       </provider>
     </entry>

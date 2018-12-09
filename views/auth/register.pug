@@ -1,0 +1,39 @@
+doctype html
+meta(charset='utf-8')
+meta(http-equiv='X-UA-Compatible', content='IE=edge')
+meta(name='viewport', content='width=device-width, initial-scale=1')
+title #{title}
+link(rel='stylesheet', href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css')
+link(rel='stylesheet', href='https://use.fontawesome.com/releases/v5.0.10/css/all.css')
+link(rel='stylesheet', href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css')
+link(rel='stylesheet', href='/style/auth.css')
+// HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries
+// Leave those next 4 lines if you care about users using IE8
+//
+  if lt IE 9script(src='https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js')
+  script(src='https://oss.maxcdn.com/respond/1.4.2/respond.min.js')
+.container-fluid
+    .row-centered
+        .spacer-120px
+        .spacer-120px
+        .col-lg-2.col-lg-offset-5#auth-container
+            img(src='/image/branding/signature_w.png' width='120px')
+            h2 Create an Account.
+            each error in errors
+                p
+                    b(style='color: red;') #{error}
+            br
+            form#auth-form(role='form' action='/auth/register' method='post')
+                .form-group
+                    input.form-control(type='text' name='username' placeholder='Username' required)
+                .form-group
+                    input.form-control(type='password' name='password' placeholder='Password' required)
+                .form-group
+                    input.form-control(type='password' name='password_verify' placeholder='Confirm Password' required)
+                button.auth-form-submit.btn.pull-right(type='submit' name='submit') Continue
+        
+        
+
+script(src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js')
+script(src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js')
+script(src='/script/index.js')

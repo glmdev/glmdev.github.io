@@ -1,0 +1,59 @@
+doctype html
+head
+  title Dashboard | Garrett Mills
+  link(rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css')
+  link(rel='stylesheet' href='https://use.fontawesome.com/releases/v5.0.10/css/all.css')
+  link(rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css')
+  link(rel='stylesheet' href='/style/index.css')
+  // HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries
+  // Leave those next 4 lines if you care about users using IE8
+  //if lt IE 9
+    script(src='https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js')
+    script(src='https://oss.maxcdn.com/respond/1.4.2/respond.min.js')
+.container-fluid
+  #top
+  // =========== ABOUT SECTION ===========
+  #about.section
+    .spacer-50px
+    .row
+      .col-lg-4.pull-right
+        h1.ft-sidekick2.section-title dashboard
+    .row.about-row
+      .col-lg-8.col-lg-offset-2
+        h2 Projects
+          a.btn-xs.btn-follows(href="/dash/project/new") +
+        table.table
+          thead.thead-dark
+            tr
+              th(scope="col") Title
+              th(scope="col") Text
+              th(scope="col") Date
+              th(scope="col") Flags
+              th(scope="col") Image
+              th(scope="col") Actions
+          tbody
+            each project in projects
+              tr
+                td #{project.title}
+                td #{project.text}
+                td #{project.date}
+                td #{project.flags}
+                td 
+                  a(href="/file/get/"+project.img) #{project.img}
+                td
+                  form(action="/dash/project/edit/"+project.id+"/show" method="post")
+                    button.btn.btn-xs.btn-success(type="submit") Edit
+                  form(action="/dash/project/delete/"+project.id method="post")
+                    button.btn.btn-xs.btn-danger(type="submit") Delete
+                    // TODO - change to unarchive if project is archived
+                  unless project.flags.includes('archived;')
+                    form(action="/dash/project/archive/"+project.id method="post")
+                      button.btn.btn-xs.btn-warning(type="submit") Archive
+                  else
+                    form(action="/dash/project/unarchive/"+project.id method="post")
+                      button.btn.btn-xs.btn-warning(type="submit") Un-Archive
+              
+  #bottom
+script(src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js')
+script(src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js')
+script(src='script/index.js')
